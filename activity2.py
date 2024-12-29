@@ -1,0 +1,9 @@
+my_set={1,2,3,4,5,6,7,7,7,7}
+print(my_set)
+my_set={"Zynah","Zynah","HI","HI","HI"}
+my_set.add("Hey")
+print(my_set)
+mysett={1,2,3,4,5,77,86,446}
+mysett2={1,2,3,4,5,6,44,34,323,456}
+print(mysett.difference(mysett2))
+print(mysett.symmetric_difference(mysett2))
